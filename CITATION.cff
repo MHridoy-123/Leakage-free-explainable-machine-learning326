@@ -5,10 +5,10 @@ type: software
 authors:
   - family-names: "Hridoy"
     given-names: "Md. Abdullah Al Mamun"
-https://orcid.org/0009-0003-8465-625X
+    orcid: "https://orcid.org/0009-0003-8465-625X"
 repository-code: "https://github.com/MHridoy-123/Leakage-free-explainable-machine-learning326"
 version: "1.0.0"
-date-released: "2026-09-22"
+date-released: "2026-09-23"
 license: "MIT"
 keywords:
   - "Water Quality Index"
