@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the archived software release and the associated manuscript."
+title: "Leakage-controlled machine learning workflow for freshwater WQI prediction"
+type: software
+authors:
+  - family-names: "Hridoy"
+    given-names: "Md. Abdullah Al Mamun"
+https://orcid.org/0009-0003-8465-625X
+repository-code: "https://github.com/MHridoy-123/Leakage-free-explainable-machine-learning326"
+version: "1.0.0"
+date-released: "2026-09-22"
+license: "MIT"
+keywords:
+  - "Water Quality Index"
+  - "freshwater monitoring"
+  - "machine learning"
+  - "Random Forest"
+  - "repeated cross-validation"
+  - "explainable artificial intelligence"
+  - "predictor stability"
+  - "monitoring reduction"
